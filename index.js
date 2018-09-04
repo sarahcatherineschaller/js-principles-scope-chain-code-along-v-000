@@ -1,4 +1,4 @@
-var customerName = 'bob';
+const customerName = 'bob';
 
 const leastFavoriteCustomer = 'fred';
 
